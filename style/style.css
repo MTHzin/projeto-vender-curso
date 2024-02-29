@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0px;
+    background-image: url("../imagens/imagemdefundo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    background-color: #1d445e;
+    padding: 8px;
+}
+header p {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: rgba(50, 50, 50, 0.364);
+    margin: auto;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    height: 800px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+main h1, h2, p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+main h2{
+    font-size: 1.3em;
+}
+
+main p {
+    font-size: 1.3em;
+}
+
+#youtubevideo{
+    width: 580px;
+    height: 335px;
+    text-align: center;
+    background-color: black;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#youtubevideo > iframe{
+    display: block;
+    padding: 10px;
+}
+
+aside ul{
+    padding: 30px;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.5em;
+}
