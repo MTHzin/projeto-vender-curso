@@ -1,0 +1,1 @@
+Criação de site para vender curso, inspirado em muitos anuncios que vemos no youtube, de como ficar milionario em alguns passos, o projeto foi criado com o intuito de aprendizado, e também uma satira a esses sites. 
