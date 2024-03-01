@@ -84,6 +84,10 @@ main p {
     display: block;
     padding: 10px;
 }
+
+aside h1{
+    margin-bottom: 20px;
+}
 aside ul{
     margin: 10px;
     padding: 50px;
@@ -93,14 +97,23 @@ aside ul{
     font-size: 1.5em;
     columns: 2;
 }
+.compreagora{
+    background-color: rgba(0, 0, 0, 0.699);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
 
+.compreagora p{
+  margin-bottom: 20px;
+}
 
 /* BOTÃO DE PULSAR */
 /* Basic button styling */
 
 .pulsingButton {
     height: 75px;
-    width: 220px;
+    width: 290px;
     text-align: center;
     white-space: nowrap;
     display: block;
